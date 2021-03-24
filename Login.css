@@ -1,0 +1,31 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding:50px,0px, 80px 0;
+      margin-top: 10%;
+    
+    }
+  
+    .Login form {
+      margin: auto;
+      max-width: 420px;
+    }
+
+    #email{
+        margin-bottom: 5%;
+        margin-left: 4%;
+        
+    }
+
+    #password{
+        margin-bottom: 5%;
+        margin-left: 4%;
+        max-width: 420px;
+         
+    }
+    
+  }
+  .bt{
+    margin-left:5%;
+}
+
+ 

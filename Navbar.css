@@ -1,0 +1,9 @@
+.image{
+height: 200px;
+width: 100px;
+    background: url("../components/image.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+  
+   
+}

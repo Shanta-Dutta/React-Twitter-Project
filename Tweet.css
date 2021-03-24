@@ -1,0 +1,15 @@
+.like-btn {
+    background-image: url(heart.png);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    /* put the height and width of your image here */
+    height: 20px;
+    width: 20px;
+    border: none;
+    margin-left: 20%;
+  }
+
+  .like{
+      margin-left: 20%;
+  }
+  /* ../images/pngwing.com.png */
